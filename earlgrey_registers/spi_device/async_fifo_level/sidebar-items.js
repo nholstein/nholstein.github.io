@@ -1,0 +1,1 @@
+initSidebarItems({"type":[["R","Reader of register ASYNC_FIFO_LEVEL"],["RXLVL_R","Reader of field `rxlvl`"],["TXLVL_R","Reader of field `txlvl`"]]});

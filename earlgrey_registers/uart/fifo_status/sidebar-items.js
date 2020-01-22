@@ -1,0 +1,1 @@
+initSidebarItems({"type":[["R","Reader of register FIFO_STATUS"],["RXLVL_R","Reader of field `RXLVL`"],["TXLVL_R","Reader of field `TXLVL`"]]});

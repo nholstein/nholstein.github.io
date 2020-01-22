@@ -1,0 +1,1 @@
+initSidebarItems({"type":[["R","Reader of register MSG_LENGTH_LOWER"],["V_R","Reader of field `v`"]]});

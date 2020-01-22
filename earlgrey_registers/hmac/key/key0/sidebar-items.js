@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["KEY0_W","Write proxy for field `key0`"]],"type":[["W","Writer for register KEY0"]]});

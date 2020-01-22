@@ -1,0 +1,1 @@
+initSidebarItems({"type":[["R","Reader of register REGEN"],["W","Writer for register REGEN"]]});

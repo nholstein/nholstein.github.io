@@ -1,0 +1,1 @@
+initSidebarItems({"type":[["R","Reader of register STATUS"],["RXEMPTY_R","Reader of field `RXEMPTY`"],["RXFULL_R","Reader of field `RXFULL`"],["RXIDLE_R","Reader of field `RXIDLE`"],["TXEMPTY_R","Reader of field `TXEMPTY`"],["TXFULL_R","Reader of field `TXFULL`"],["TXIDLE_R","Reader of field `TXIDLE`"]]});

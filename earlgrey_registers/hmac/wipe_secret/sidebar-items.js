@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["SECRET_W","Write proxy for field `secret`"]],"type":[["W","Writer for register WIPE_SECRET"]]});

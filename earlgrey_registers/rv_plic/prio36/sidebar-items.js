@@ -1,0 +1,1 @@
+initSidebarItems({"type":[["R","Reader of register PRIO36"],["W","Writer for register PRIO36"]]});

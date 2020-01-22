@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["HASH_PROCESS_W","Write proxy for field `hash_process`"],["HASH_START_W","Write proxy for field `hash_start`"]],"type":[["W","Writer for register CMD"]]});

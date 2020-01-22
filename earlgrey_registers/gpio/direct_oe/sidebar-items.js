@@ -1,0 +1,1 @@
+initSidebarItems({"type":[["R","Reader of register DIRECT_OE"],["W","Writer for register DIRECT_OE"]]});

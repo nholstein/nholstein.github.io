@@ -1,0 +1,1 @@
+initSidebarItems({"type":[["R","Reader of register DIRECT_OUT"],["W","Writer for register DIRECT_OUT"]]});

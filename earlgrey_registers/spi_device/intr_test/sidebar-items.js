@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["RXERR_W","Write proxy for field `rxerr`"],["RXF_W","Write proxy for field `rxf`"],["RXLVL_W","Write proxy for field `rxlvl`"],["RXOVERFLOW_W","Write proxy for field `rxoverflow`"],["TXLVL_W","Write proxy for field `txlvl`"],["TXUNDERFLOW_W","Write proxy for field `txunderflow`"]],"type":[["W","Writer for register INTR_TEST"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["OP_DONE_W","Write proxy for field `op_done`"],["OP_ERROR_W","Write proxy for field `op_error`"],["PROG_EMPTY_W","Write proxy for field `prog_empty`"],["PROG_LVL_W","Write proxy for field `prog_lvl`"],["RD_FULL_W","Write proxy for field `rd_full`"],["RD_LVL_W","Write proxy for field `rd_lvl`"]],"type":[["W","Writer for register INTR_TEST"]]});

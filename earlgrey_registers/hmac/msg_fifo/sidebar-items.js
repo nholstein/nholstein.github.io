@@ -1,0 +1,1 @@
+initSidebarItems({"type":[["W","Writer for register MSG_FIFO%s"]]});

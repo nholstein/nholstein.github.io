@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ERASE_EN0_W","Write proxy for field `ERASE_EN0`"],["ERASE_EN1_W","Write proxy for field `ERASE_EN1`"]],"type":[["ERASE_EN0_R","Reader of field `ERASE_EN0`"],["ERASE_EN1_R","Reader of field `ERASE_EN1`"],["R","Reader of register MP_BANK_CFG"],["W","Writer for register MP_BANK_CFG"]]});

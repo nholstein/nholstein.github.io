@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["PRESCALE_W","Write proxy for field `prescale`"],["STEP_W","Write proxy for field `step`"]],"type":[["PRESCALE_R","Reader of field `prescale`"],["R","Reader of register CFG0"],["STEP_R","Reader of field `step`"],["W","Writer for register CFG0"]]});

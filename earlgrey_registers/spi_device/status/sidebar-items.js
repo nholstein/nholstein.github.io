@@ -1,0 +1,1 @@
+initSidebarItems({"type":[["ABORT_DONE_R","Reader of field `abort_done`"],["CSB_R","Reader of field `csb`"],["R","Reader of register STATUS"],["RXF_EMPTY_R","Reader of field `rxf_empty`"],["RXF_FULL_R","Reader of field `rxf_full`"],["TXF_EMPTY_R","Reader of field `txf_empty`"],["TXF_FULL_R","Reader of field `txf_full`"]]});

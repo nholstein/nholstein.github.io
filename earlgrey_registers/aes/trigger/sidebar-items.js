@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["DATA_IN_CLEAR_W","Write proxy for field `DATA_IN_CLEAR`"],["DATA_OUT_CLEAR_W","Write proxy for field `DATA_OUT_CLEAR`"],["KEY_CLEAR_W","Write proxy for field `KEY_CLEAR`"],["START_W","Write proxy for field `START`"]],"type":[["W","Writer for register TRIGGER"]]});
